@@ -1,4 +1,4 @@
-# Hi, I'm uga-rosa.
+# Hi! I'm uga-rosa
 
 I love Neovim.  
 See pinned for representative works.
